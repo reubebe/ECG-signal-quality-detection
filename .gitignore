@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Generated caches (models, features, traces) — reproduced by running the notebook
+output/
+output_clinical/
+*.pt
+*.pkl
+*.joblib
+*.npz
+*.nc
+
+# PTB-XL dataset — download from PhysioNet (see README)
+ptb-xl*/
+records100/
+records500/
