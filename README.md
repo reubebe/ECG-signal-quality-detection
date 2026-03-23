@@ -4,7 +4,7 @@ A progressive benchmark of five machine-learning models for binary classificatio
 
 ## Motivation
 
-Poor signal quality in electrocardiograms leads to misdiagnosis and wasted clinical time. Automated quality screening can flag degraded recordings before they reach a cardiologist. This project builds and compares five classifiers of increasing complexity — from a simple logistic regression to a CNN-Transformer ensemble with uncertainty quantification — so practitioners can choose the right accuracy/complexity trade-off for their deployment environment.
+Poor signal quality in electrocardiograms leads to misdiagnosis and wasted clinical time. Automated quality screening can flag degraded recordings before they reach a cardiologist. This project builds and compares five classifiers of increasing complexity, from a simple logistic regression to a CNN-Transformer ensemble with uncertainty quantification so practitioners can choose the right accuracy/complexity trade-off for their deployment environment.
 
 ## Models
 
